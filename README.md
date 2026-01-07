@@ -38,10 +38,9 @@ This project is developed as a **Final Year Engineering Project** with a focus o
 - VS Code
 - Vercel (Deployment)
 
----
 
 ## 📂 Project Structure
-'''
+
 Zuffie/
 │── app/ # Application routes
 │── components/ # Reusable UI components
@@ -51,4 +50,3 @@ Zuffie/
 │── .env.local # Environment variables
 │── package.json
 │── README.md
-'''
